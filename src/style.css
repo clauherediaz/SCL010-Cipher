@@ -1,1 +1,100 @@
-/* Acá va tu código */
+@import url(@IMPORT
+<link href="https://fonts.googleapis.com/css?family=Poppins&display=swap" rel="stylesheet">);
+
+
+body {
+background-image: url(https://image.freepik.com/vector-gratis/concepto-seguridad-cibernetica_53876-90448.jpg);
+background-size: 100%;
+background-color:#2470A2;
+text-align: center;
+background-repeat: no-repeat;
+
+
+}
+
+
+h1{
+color: #E5E7E9  ;
+font-family:'Poppins', sans-serif;
+text-shadow: 0.02em 0.02em rgb(230, 191, 107);
+text-align: center;
+padding-top: 0.4em;
+font-size: 5em;
+margin-bottom: 5px;
+
+}
+
+h2{
+color: #E5E7E9 ;
+font-family: Arial, Helvetica, sans-serif;
+text-shadow: 0.02em 0.02em rgb(230, 191, 107);
+background-position-x: 100%;
+}
+
+
+
+#text{
+font-family: Arial, Helvetica, sans-serif;
+text-shadow: 0.02em 0.02em rgb(230, 191, 107);
+color: #E5E7E9;
+text-align: center;
+}
+
+
+#key1{
+    border-radius: 5px;
+    background-color: #E5E7E9;
+    border: 0;
+    box-sizing: 2em;
+    padding: 1em;
+    width: 100px;
+    height: 4px;
+}
+
+#textCipher{
+
+    border-radius: 5px;
+    background-color: #E5E7E9;
+    border: 0;
+    box-sizing: 2em;
+    padding: 1em;
+    width: 100px;
+    height: 4px;
+}
+
+#offset1{
+    border-radius: 5px;
+    background-color: #E5E7E9;
+    border: 0;
+    box-sizing: 2em;
+    width: 70px;
+    height: 10px;
+    padding: 0.5em;
+    
+}
+
+#offset1::placeholder {
+    text-align: center;
+ }
+
+ #textCipher::placeholder {
+    text-align: center;
+ } 
+
+ #key1::placeholder {
+    text-align: center;
+ }
+
+ #cifrar{
+    background: #2EB0CA  ;
+    color: #E5E7E9;
+    border: 2px solid #E5E7E9;
+    border-radius: 6px;
+ }
+
+ #decifrar{
+    background:#2EB0CA ;
+    color: #E5E7E9;
+    border: 2px solid #E5E7E9;
+    border-radius: 6px;
+ }
