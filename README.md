@@ -59,9 +59,14 @@ Usa este alfabeto simple (solamente mayúsculas y sin ñ):
 
 En el README.md, cuéntanos cómo pensaste en los usuarios y cuál fue tu proceso para definir el producto final a nivel de experiencia y de interfaz.
 
-- Quiénes son los principales usuarios de producto.
-- Cuáles son los objetivos de estos usuarios en relación con tu producto.
-- Cómo crees que el producto que estás creando está resolviendo sus problemas.
+-  Quiénes son los principales usuarios de producto:
+ Orientado a un publico adulto joven con poder de adquisición económica que maneje muchas tarjetas bancarias y claves de correos y distintas cuentas como RRSS y que deba protegerlas de posibles robos de información. 
+
+- Cuáles son los objetivos de estos usuarios en relación con tu producto: 
+El objetivo de los usuarios es poder encriptar todas sus claves a través de esta aplicación para así poder guardarlas todas de forma segura. 
+
+- Cómo crees que el producto que estás creando está resolviendo sus problemas: 
+Creo que este producto es de gran utilidad para personas que no saben que claves crear y que están contante mente cambiándolas y arriesgándose a olvidarlas o perderlas exponiendo información privada, esta aplicación solucionara el problema de vulnerabilidad a la que se exponen los usuarios cuando utilizan claves fáciles de hackear. 
 
 #### Interfaz de usuario (UI)
 
